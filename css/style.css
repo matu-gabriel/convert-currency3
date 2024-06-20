@@ -12,7 +12,7 @@ body {
 
 .logo {
   width: 150px;
-  margin: 18px auto;
+  margin: 0px auto;
   display: block;
 }
 
@@ -21,8 +21,8 @@ main {
   width: 375px;
   border-radius: 10px;
   margin: 0 auto 10px;
-  padding: 38px 24px 33px;
-  height: 700px;
+  padding: 18px 21px 20px;
+  height: 677px;
 }
 
 label {
